@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RoyalFamily
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=node\ name
+comment2.target=TNode\ find(TNode,\ java.lang.String)
+comment2.text=\r\n\ \ @return\ node\ if\ its\ data\ matches\ name,\ or\ return\ a\ child\ node\ with\ data\ that\ matches\ name\r\n
+comment3.params=node
+comment3.target=java.lang.String\ getPath(TNode)
+comment3.text=\r\n\ \ @return\ a\ String\ containing\ the\ path\ from\ the\ root\ node\ to\ the\ specified\ node,\ separeated\ by\ ->\r\n
+numComments=4

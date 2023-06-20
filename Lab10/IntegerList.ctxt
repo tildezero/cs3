@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=IntegerList
+comment1.params=index
+comment1.target=java.lang.Integer\ getInt(int)
+comment1.text=\r\n\tReturn\ the\ Integer\ located\ at\ the\ specified\ index\ of\ the\ list\r\n\tReturn\ null\ if\ the\ index\ is\ out\ of\ bounds.\r\n
+comment2.params=index
+comment2.target=java.lang.Integer\ removeInt(int)
+comment2.text=\r\n\tRemove\ the\ Integer\ located\ at\ the\ specified\ index\ and\ return\ it\r\n\tReturn\ null\ if\ the\ index\ is\ out\ of\ bounds\r\n
+comment3.params=index\ str
+comment3.target=java.lang.Integer\ setInt(int,\ java.lang.Integer)
+comment3.text=\r\n\tSet\ the\ value\ at\ the\ specified\ index\ to\ the\ specified\ str\r\n\tReturn\ the\ Integer\ that\ was\ replaced.\r\n\tReturn\ null\ if\ the\ index\ is\ out\ of\ bounds.\r\n
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=WordCount
+comment1.params=filename
+comment1.target=WordCount(java.lang.String)
+comment2.params=word
+comment2.target=int\ getWordCount(java.lang.String)
+comment2.text=\r\n\ \ Return\ the\ number\ of\ times\ the\ specified\ word\ was\ used\ in\ the\ document\r\n\ \ Don't\ forget\ to\ sanitize\ word\!\r\n
+comment3.params=
+comment3.target=Set\ getDistinctWords()
+comment3.text=\r\n\ \ Return\ a\ Set\ containing\ all\ of\ the\ words\ that\ were\ used\ in\ this\ document\r\n
+comment4.params=
+comment4.target=int\ countDistinctWords()
+comment4.text=\r\n\ \ Return\ number\ of\ different\ words\ that\ were\ used\ in\ this\ document\r\n
+comment5.params=text
+comment5.target=Map\ countWords(java.lang.String)
+comment5.text=\r\n\ \ Return\ a\ Mapping\ of\ Word->Occurances\ in\ the\ specified\ text\ String\r\n\r\n\ \ This\ method\ can\ be\ used\ like\ this\:\r\n\r\n\ \ \ \ \ \ Map<String,\ Integer>\ countAllWords\ \=\ WordCount.countWords("one\ ring\ to\ rule\ them\ all\ one\ ring\ to\ find\ them");\r\n\ \ \ \ \ \ Integer\ countRing\ \=\ countAllWords.get("ring");\r\n\ \ \ \ \ \ System.out.println(countRing);\ //this\ should\ output\ 2\ because\ "ring"\ appears\ twice\ in\ the\ String\r\n
+comment6.params=filename
+comment6.target=java.lang.String\ readFile(java.lang.String)
+comment6.text=\r\n\ \ Return\ a\ string\ that\ contains\ all\ of\ the\ text\ stored\ in\ the\ spefied\ file\r\n\ \ Each\ line\ of\ the\ file\ will\ be\ separated\ by\ a\ line\ break\ (\\n)\ in\ the\ returned\ String\r\n\ \ If\ the\ file\ does\ not\ exist,\ then\ return\ null\r\n\ \ If\ the\ file\ is\ empty,\ then\ return\ the\ empty\ String\r\n
+comment7.params=str
+comment7.target=java.lang.String\ sanitize(java.lang.String)
+comment7.text=\r\n\ \ Return\ a\ sanitized\ version\ of\ the\ input\ string.\r\n\r\n\r\n\ \ This\ method\ should\ remove\ all\ characters\ from\ str\ that\ are\ not\ letters\ or\ a\ single\ quote\r\n\ \ It\ should\ also\ make\ the\ the\ string\ lower\ case.\r\n\r\n\ \ Examples\:\r\n\ \ \ \ \ \ Mr.\ \ \ \ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ mr\r\n\ \ \ \ \ \ Hello\ \ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ hello\r\n\ \ \ \ \ \ they're\ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ they're\r\n\ \ \ \ \ \ "Hello"\ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ hello\r\n\ \ \ \ \ \ hello\!\ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ hello\r\n\ \ \ \ \ \ however,\ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ however\r\n\ \ \ \ \ \ ke$ha\ \ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ keha\r\n\ \ \ \ \ \ \:-)\ \ \ \ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (empty\ string)\r\n\ \ \ \ \ \ mays'\ \ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ mays'\r\n\ \ \ \ \ \ 'ere\ \ \ \ \ \ \ \ \=>\ \ \ \ \ \ \ \ \ \ 'ere\r\n\ \ \ \ \ \ jump-scare\ \ \=>\ \ \ \ \ \ \ \ \ \ jumpscare\r\n
+numComments=8

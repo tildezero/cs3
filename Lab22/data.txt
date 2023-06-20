@@ -1,0 +1,24 @@
+King George VI
+King George VI > Princess Margaret
+Princess Margaret > David, Viscount Linley
+Princess Margaret > Lady Sarah
+Lady Sarah > Samuel Chatto
+Lady Sarah > Arthur Chatto
+David, Viscount Linley > Charles Armstrong-Jones
+David, Viscount Linley > Margarita Armstrong-Jones
+King George VI > Queen Elizabeth II
+Queen Elizabeth II > Charles, Prince of Wales
+Charles, Prince of Wales > Prince William of Wales
+Prince William of Wales > Prince George of Cambridge
+Charles, Prince of Wales > Prince Harry of Wales
+Queen Elizabeth II > Anne, Princess Royal
+Anne, Princess Royal > Peter Phillips
+Peter Phillips > Savannah Phillips
+Peter Phillips > Isla Phillips
+Anne, Princess Royal > Zara Tindall
+Queen Elizabeth II > Andrew, Duke of York
+Andrew, Duke of York > Princess Beatrice of York
+Andrew, Duke of York > Princess Eugenie of York
+Queen Elizabeth II > Edward, Earl of Wessex
+Edward, Earl of Wessex > Lady Louise Windsor
+Edward, Earl of Wessex > James, Viscount Severn

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lab17Tester
+comment1.params=
+comment1.target=void\ testPutSizeEmpty()
+comment2.params=
+comment2.target=void\ testGet()
+comment3.params=
+comment3.target=void\ testPutDuplicateKeys()
+comment4.params=
+comment4.target=void\ testContainsKey()
+comment5.params=
+comment5.target=void\ testContainsValue()
+comment6.params=
+comment6.target=void\ testValues()
+comment7.params=
+comment7.target=void\ testKeySet()
+comment8.params=
+comment8.target=void\ testRemove()
+comment9.params=
+comment9.target=java.lang.String\ randomString()
+numComments=10

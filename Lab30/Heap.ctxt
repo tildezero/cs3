@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Heap
+comment1.params=data
+comment1.target=void\ add(java.lang.Comparable)
+comment2.params=index
+comment2.target=void\ addHelper(int)
+comment3.params=index
+comment3.target=boolean\ meetsHeapProperty(int)
+comment4.params=index
+comment4.target=int\ getSmallestChildIndex(int)
+comment5.params=
+comment5.target=java.lang.Comparable\ removeRoot()
+comment6.params=
+comment6.target=void\ heapify()
+comment7.params=index
+comment7.target=void\ sink(int)
+comment8.params=
+comment8.target=void\ shuffle()
+numComments=9

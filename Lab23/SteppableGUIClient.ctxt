@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SteppableGUIClient
+comment1.params=ai
+comment1.target=SteppableGUIClient(AI)
+comment2.params=
+comment2.target=TicTacToeStage\ getNewStage()
+comment3.params=piece
+comment3.target=void\ onYouAre(TicTacToePiece)
+comment4.params=winner
+comment4.target=void\ onWinner(java.lang.String)
+comment5.params=
+comment5.target=void\ click()
+comment6.params=
+comment6.target=void\ makeMove()
+numComments=7

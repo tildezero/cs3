@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=TicTacToe()
+comment2.params=
+comment2.target=void\ nextPlayer()
+comment2.text=\r\n\tChange\ the\ current\ player\ from\ X\ to\ O,\ or\ from\ O\ to\ X\r\n
+comment3.params=row\ col
+comment3.target=boolean\ addPiece(int,\ int)
+comment3.text=\r\n\tAdd\ the\ specified\ piece\ to\ the\ board\ at\ the\ specified\ row,col\ and\ return\ true\r\n\tIf\ there\ is\ already\ a\ piece\ at\ that\ location,\ do\ not\ add\ the\ piece\ and\ return\ false\r\n
+comment4.params=
+comment4.target=boolean\ hasEmptySpace()
+comment4.text=\r\n\tReturn\ true\ if\ there\ is\ at\ least\ 1\ empty\ space\ left\ on\ the\ board\r\n\tReturn\ false\ if\ all\ spaces\ have\ a\ piece\ in\ them\r\n
+comment5.params=
+comment5.target=boolean\ isGameOver()
+comment5.text=\r\n\tReturn\ true\ if\ there\ is\ a\ winner\ or\ if\ there\ are\ no\ empty\ spaces\ left\ on\ the\ board\r\n\tOtherwise,\ return\ false\r\n
+numComments=6

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TicTacToeClient
+comment1.params=
+comment1.target=TicTacToe\ getGame()
+comment2.params=
+comment2.target=TicTacToePiece\ getMyPiece()
+comment3.params=message
+comment3.target=void\ process(java.lang.String)
+comment4.params=message
+comment4.target=void\ onDisconnect(java.lang.String)
+comment5.params=
+comment5.target=void\ onConnect()
+comment6.params=piece
+comment6.target=void\ onYouAre(TicTacToePiece)
+comment7.params=row\ col
+comment7.target=void\ onAddPiece(int,\ int)
+comment8.params=message
+comment8.target=void\ onWinner(java.lang.String)
+comment9.params=error
+comment9.target=void\ onError(java.lang.String)
+numComments=10

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AI
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=paramTicTacToe\ paramTicTacToePiece
+comment2.target=Point\ getNextMove(TicTacToe,\ TicTacToePiece)
+numComments=3

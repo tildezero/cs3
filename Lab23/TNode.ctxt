@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TNode
+comment1.params=data
+comment1.target=TNode(java.lang.Object)
+comment2.params=node
+comment2.target=TNode\ setParent(TNode)
+comment3.params=
+comment3.target=TNode\ getParent()
+comment4.params=child
+comment4.target=boolean\ addChild(TNode)
+comment5.params=
+comment5.target=java.util.List\ getChildren()
+comment6.params=
+comment6.target=java.util.List\ getChildrenData()
+comment7.params=
+comment7.target=java.lang.Object\ getData()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=indentation
+comment9.target=java.lang.String\ toIndentedString(int)
+numComments=10

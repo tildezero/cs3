@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TicTacToeStage
+comment1.params=
+comment1.target=TicTacToeStage()
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ \ Check\ if\ the\ game\ is\ over\r\n\ \ \ \ \ \ If\ the\ game\ is\ over,\ display\ the\ text\ "Game\ Over\!"\ on\ the\ screen\r\n\ \ \ \ \ \ If\ there\ is\ a\ winner,\ display\ the\ text\ "X\ wins\!"\ or\ "O\ wins\!"\ on\ the\ screen\r\n\ \ \ \ \ \ If\ there\ is\ not\ a\ winner,\ display\ the\ text\ "Tie\ Game\!"\ on\ the\ screen\r\n\ \ If\ the\ game\ is\ NOT\ over\r\n\ \ \ \ \ \ Display\ the\ current\ player's\ turn\ on\ the\ screen\:\ "It\ is\ X's\ turn"\ or\ "It\ is\ O's\ turn"\r\n
+numComments=3

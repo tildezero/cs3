@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RecursiveCircles
+comment1.params=
+comment1.target=RecursiveCircles()
+comment2.params=window
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=window\ x\ y
+comment3.target=void\ drawCircles(java.awt.Graphics,\ int,\ int)
+numComments=4

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Set
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\tReturn\ true\ if\ the\ Set\ is\ empty\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\n\tReturn\ the\ number\ of\ elements\ in\ the\ Set\n
+comment3.params=obj
+comment3.target=boolean\ contains(java.lang.Object)
+comment3.text=\n\tReturn\ true\ if\ this\ Set\ contains\ obj\n
+comment4.params=obj
+comment4.target=boolean\ remove(java.lang.Object)
+comment4.text=\n\tRemove\ obj\ from\ this\ set.\n\tReturn\ true\ if\ obj\ was\ removed\ from\ the\ set\n
+comment5.params=item
+comment5.target=boolean\ add(java.lang.Object)
+comment5.text=\n\tIf\ the\ set\ does\ not\ alreay\ contain\ item\:\n\t\tadd\ item\ to\ the\ Set\n\t\treturn\ true\n\tOtherwise,\ return\ false\n
+numComments=6

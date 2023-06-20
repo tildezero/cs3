@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AutomatedGUIClient
+comment1.params=ai
+comment1.target=AutomatedGUIClient(AI)
+comment2.params=
+comment2.target=TicTacToeStage\ getNewStage()
+comment3.params=piece
+comment3.target=void\ onYouAre(TicTacToePiece)
+comment4.params=row\ col
+comment4.target=void\ onAddPiece(int,\ int)
+comment5.params=
+comment5.target=void\ makeMove()
+numComments=6

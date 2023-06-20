@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=JavaLinkedList
+comment1.params=
+comment1.target=JavaLinkedList()
+comment1.text=\r\n\ \ Default\ Constructor\r\n\ \ Create\ a\ new\ MyLinkedList\ of\ Integers\r\n
+comment2.params=nums
+comment2.target=JavaLinkedList(int[])
+comment2.text=\r\n\ \ Create\ a\ new\ MyLinkedList\ of\ Integers\ from\ the\ array\r\n
+comment3.params=
+comment3.target=double\ getSum()
+comment3.text=\r\n\ \ Return\ the\ sum\ of\ all\ the\ items\ in\ the\ list\r\n
+comment4.params=
+comment4.target=double\ getMean()
+comment4.text=\r\n\ \ Return\ the\ mean\ of\ all\ the\ items\ in\ the\ list\r\n
+comment5.params=
+comment5.target=int\ getLargest()
+comment5.text=\r\n\ \ Return\ the\ largest\ item\ in\ the\ list\r\n
+comment6.params=
+comment6.target=int\ getSmallest()
+comment6.text=\r\n\ \ Return\ the\ smallest\ item\ in\ the\ list\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ \ Return\ a\ string\ with\ this\ format\:\r\n\ \ \r\n\ \ SUM\:\:\ 10.0\r\n\ \ MEAN\:\:\ 4.65\r\n\ \ SMALLEST\:\:\ -1.23\r\n\ \ LARGEST\:\:\ 5.0\r\n
+numComments=8

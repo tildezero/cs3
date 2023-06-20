@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlayAgainActor
+comment1.params=gamee
+comment1.target=PlayAgainActor(TicTacToe)
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\r\n\ \ Checks\ if\ this\ piece\ is\ clicked\ using\ the\ isClicked()\ method\r\n\ \ If\ it\ is\ clicked\ then\:\r\n\ \ \ \ \ \ 1.\ Check\ if\ the\ game\ is\ over.\ No\ pieces\ can\ be\ played\ if\ the\ game\ is\ over.\r\n\ \ \ \ \ \ 1.\ Check\ if\ this\ is\ an\ empty\ piece.\ Pieces\ cannot\ be\ played\ on\ top\ of\ other\ pieces.\r\n\ \ \ \ \ \ 2.\ Make\ this\ PieceActor\ display\ the\ current\ player's\ piece.\r\n\ \ \ \ \ \ 3.\ Tell\ the\ game\ to\ put\ the\ current\ player's\ piece\ in\ the\ correct\ row,col\ using\ the\ addPiece()\ method.\r\n\ \ \ \ \ \ 3.\ Tell\ the\ game\ it\ is\ the\ next\ player's\ turn\ using\ the\ nextPlayer()\ method.\r\n
+numComments=3

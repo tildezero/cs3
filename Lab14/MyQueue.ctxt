@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MyQueue
+comment1.params=
+comment1.target=MyQueue()
+comment2.params=
+comment2.target=boolean\ isEmpty()
+comment3.params=
+comment3.target=int\ size()
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment5.params=
+comment5.target=java.lang.Object\ remove()
+comment6.params=item
+comment6.target=boolean\ add(java.lang.Object)
+numComments=7

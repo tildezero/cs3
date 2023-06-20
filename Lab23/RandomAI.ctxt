@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RandomAI
+comment1.params=name
+comment1.target=RandomAI(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=game\ myPiece
+comment3.target=Point\ getNextMove(TicTacToe,\ TicTacToePiece)
+numComments=4

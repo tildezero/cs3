@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MyAI
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=game\ myPiece
+comment2.target=Point\ getNextMove(TicTacToe,\ TicTacToePiece)
+comment3.params=game\ move
+comment3.target=TNode\ generateMinMaxTree(TicTacToe,\ Point)
+comment4.params=root\ player
+comment4.target=void\ scoreMinMaxTree(TNode,\ TicTacToePiece)
+numComments=5

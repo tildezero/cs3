@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MinMaxNode
+comment1.params=game\ move
+comment1.target=MinMaxNode(TicTacToe,\ Point)
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=score
+comment3.target=void\ setScore(int)
+comment4.params=
+comment4.target=TicTacToe\ getGame()
+comment5.params=
+comment5.target=Point\ getMove()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

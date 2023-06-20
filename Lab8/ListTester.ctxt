@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ListTester
+comment0.text=\r\n\tUse\ the\ main\ method\ of\ this\ class\ to\ test\ your\ MyArrayList\ methods\r\n\tas\ you\ write\ them.\r\n\r\n\tYou\ should\ implement\ the\ add(Object)\ and\ size()\ methods\ first.\ Below\ is\ a\ quick\ test\r\n\tto\ make\ sure\ that\ add(Object)\ and\ size()\ work\ properly.\r\n\r\n\tAs\ you\ implement\ more\ methods,\ write\ some\ code\ in\ this\ main\ method\ to\ make\ sure\r\n\tit\ works\ correctly.\ Be\ sure\ to\ test\ edge\ cases\ like\ \r\n\t\t-\ "what\ if\ the\ list\ is\ empty"\r\n\t\t-\ "what\ if\ the\ list\ is\ not\ empty"\r\n\t\t-\ "does\ it\ work\ on\ the\ first\ element"\ \r\n\t\t-\ "does\ it\ work\ on\ the\ last\ element"\r\n\t\t-\ "does\ it\ work\ on\ an\ element\ in\ the\ middle"\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

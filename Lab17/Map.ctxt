@@ -1,0 +1,30 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=key
+comment1.target=boolean\ containsKey(java.lang.Object)
+comment1.text=\n\tReturn\ true\ if\ this\ map\ contains\ the\ specified\ key\n\tPrecondition\:\ key\ \!\=\ null\n
+comment2.params=value
+comment2.target=boolean\ containsValue(java.lang.Object)
+comment2.text=\n\tReturn\ true\ if\ this\ map\ contins\ the\ specified\ value\n\tPrecondition\:\ value\ \!\=\ null\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\n\tReturn\ true\ is\ this\ map\ contains\ no\ Nodes\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\tReturn\ the\ number\ of\ Nodes\ this\ map\ contains\n
+comment5.params=key
+comment5.target=java.lang.Object\ get(java.lang.Object)
+comment5.text=\n\tReturn\ the\ value\ of\ the\ Node\ that\ has\ the\ specified\ key\n\tIf\ there\ is\ no\ Node\ with\ the\ specified\ key,\ then\ return\ null\n
+comment6.params=key\ value
+comment6.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment6.text=\n\tAssociate\ the\ specified\ value\ with\ the\ specified\ key\n\tIf\ the\ map\ already\ contains\ the\ specified\ key,\ the\ replace\ \n\tthe\ value\ of\ that\ key\ and\ return\ the\ original\ value.\n\tOtherwise\ add\ a\ new\ Node\ to\ the\ map\ and\ return\ null.\n\tPrecondition\:\ key\ \!\=\ null\ &&\ value\ \!\=\ null\n
+comment7.params=key
+comment7.target=java.lang.Object\ remove(java.lang.Object)
+comment7.text=\n\tRemove\ the\ association\ for\ the\ specified\ key\ from\ this\ map.\n\tReturn\ the\ value\ that\ was\ associated\ with\ the\ specified\ key\n\tOr\ return\ null\ if\ no\ value\ was\ associated\ with\ the\ key.\n\tPrecondition\:\ key\ \!\=\ null\n
+comment8.params=
+comment8.target=java.util.List\ values()
+comment8.text=\n\tReturn\ a\ List<V>\ of\ the\ values\ that\ are\ stored\ in\ this\ map\n
+comment9.params=
+comment9.target=Set\ keySet()
+comment9.text=\n\tReturn\ a\ Set<E>\ of\ the\ keys\ that\ have\ associations\ in\ this\ map\n
+numComments=10

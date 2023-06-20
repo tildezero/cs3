@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=IntegerArrayList
+comment1.params=obj
+comment1.target=boolean\ add(java.lang.Object)
+comment1.text=\r\n\ \ If\ obj\ is\ *not*\ an\ instanceof\ a\ String\ then\ this\ method\ should\r\n\ \ NOT\ add\ obj\ to\ the\ list\ and\ it\ should\ return\ false.\r\n\ \ Otherwise,\ it\ should\ do\ whatever\ MyArrayList\ does\ for\ this\ method.\r\n
+comment2.params=index\ obj
+comment2.target=void\ add(int,\ java.lang.Object)
+comment2.text=\r\n\ \ If\ obj\ is\ *not*\ an\ instanceof\ a\ String\ then\ this\ method\ should\r\n\ \ NOT\ add\ obj\ to\ the\ list\ and\ it\ should\ return\ false.\r\n\ \ Otherwise,\ it\ should\ do\ whatever\ MyArrayList\ does\ for\ this\ method.\r\n
+comment3.params=index\ obj
+comment3.target=java.lang.Object\ set(int,\ java.lang.Object)
+comment3.text=\r\n\ \ If\ obj\ is\ *not*\ an\ instanceof\ a\ String\ then\ this\ method\ should\r\n\ \ NOT\ set\ the\ value\ at\ index\ to\ obj\ and\ it\ should\ reutnr\ null.\r\n\ \ Otherwise,\ it\ should\ do\ whatever\ MyArrayList\ does\ for\ this\ method\r\n
+comment4.params=index
+comment4.target=java.lang.Integer\ getInt(int)
+comment5.params=index
+comment5.target=java.lang.Integer\ removeInt(int)
+comment6.params=index\ str
+comment6.target=java.lang.Integer\ setInt(int,\ java.lang.Integer)
+numComments=7

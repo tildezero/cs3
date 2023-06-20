@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MarkovChainGen2
+comment1.params=
+comment1.target=MarkovChainGen2()
+comment2.params=filename
+comment2.target=void\ train(java.lang.String)
+numComments=3
